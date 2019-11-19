@@ -1,0 +1,1 @@
+Iteracao        xk           f(xk)            f'(xk))        ek
